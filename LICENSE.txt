@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2023, Chan Zuckerberg Biohub
+The software in this repository is Copyright (c) 2024, Chan Zuckerberg Biohub San Francisco
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
