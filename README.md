@@ -52,6 +52,10 @@ The structure of this repo is illustrated below.
 └── requirements
 ```
 
+### License
+This project is licensed under the BSD 3-Clause license - see the LICENSE file for details.
+
+
 ### Citation
 If used please cite: 
 ```plaintext
